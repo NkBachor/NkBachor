@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cynthia
-- 👀 I’m interested in Artificial Intelligience, Cloud engineering and CyberSecurity
+- 👀 I’m interested in Artificial Intelligience and Cloud engineering
 - 📚 I’m currently doing a Masters Degree in AI and its Applications  ...
 - 💞️ I’m looking to collaborate on AI/ML projects
 - 🧑‍💼 Product Manager, Technical Support, Pre Sales Engineer
