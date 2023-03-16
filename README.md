@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligience, Cloud engineering and CyberSecurity
 - 📚 I’m currently doing a Masters Degree in AI and its Applications  ...
 - 💞️ I’m looking to collaborate on AI/ML projects
-- 🧑‍💼 Project Manager, Technical Support, Pre Sales Engineer
+- 🧑‍💼 Product Manager, Technical Support, Pre Sales Engineer
 - 🎯 The long-term goal is to be an all round Technical Product Manager
 - 📫 you can reach me at cynthiabachor@gmail.com
 
